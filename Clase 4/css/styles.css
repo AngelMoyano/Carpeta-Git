@@ -1,0 +1,26 @@
+
+
+header  {
+    text-align: center;
+    margin-bottom: 100px;
+    background-color: #E6E6E6
+    ;
+}
+header h1 {
+    background-color: 
+ #C4C4C4;
+}
+
+h2 {
+    background-color:  #C4C4C4;
+    color: 
+    #005677 ;
+}
+
+.renglon_sangria{
+    margin-left: 90px;
+}
+ 
+.lista_vacia {
+    list-style: none;
+}

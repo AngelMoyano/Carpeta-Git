@@ -1,0 +1,18 @@
+body{
+    font-family: "Oxygen", sans-serif; 
+    background-color:darkkhaki;
+}
+
+header{
+   text-align: center;
+    background-image: url('../img/fondo.jpg');
+}
+h2 {
+    background-color:  #C4C4C4;
+    color: 
+    #005677 ;
+}
+
+a{
+    text-decoration: none;
+}
